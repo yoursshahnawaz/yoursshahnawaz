@@ -7,7 +7,6 @@
 - 💬 Ask me about: Just go on with anything, I'll surely answer if I can
 - 📫 How to reach me: [Portfolio](https://yoursshahnawaz.github.io/)
 
-![Shahnawaz's github stats](https://github-readme-stats.vercel.app/api?username=yoursshahnawaz&count_private=true&show_icons=true&theme=tokyonight)
-
+![Shahnawaz's github stats](https://github-readme-stats.vercel.app/api?username=yoursshahnawaz&count_private=true&show_icons=true&theme=tokyonight&hide=stars) &nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoursshahnawaz&layout=compact)
 
