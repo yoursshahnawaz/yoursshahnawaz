@@ -1,8 +1,8 @@
 ### Hola, I'm Shahnawaz! 👋
 
 - 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on Machine Learning Projects
+- 🌱 I’m currently learning Python & React
+- 👯 I’m looking to collaborate on Problem Solving Projects
 - 🤔 I’m looking for help with MERN Stack
 - 💬 Ask me about: Just go on with anything, I'll surely answer if I can
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yoursshahnawaz/)
