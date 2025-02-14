@@ -6,6 +6,6 @@
 - 💬 Ask me about DEV, cricket & myself.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yoursshahnawaz/)
 
-![Shahnawaz's github stats](https://github-readme-stats.vercel.app/api?username=yoursshahnawaz&count_private=true&hide=stars&show_icons=true&theme=radical) &nbsp;
+![Shahnawaz's github stats](https://github-readme-stats.vercel.app/api?username=yoursshahnawaz&count_private=true&hide=stars&show_icons=true&theme=radical&include_all_commits=true) &nbsp;
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yoursshahnawaz&layout=compact&exclude_repo=image-captioning)
 
